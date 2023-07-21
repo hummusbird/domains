@@ -4,6 +4,8 @@
 
 [hummusbird.co.uk](https://hummusbird.co.uk) // alt domain for birb.cc
 
+[miaowi.ng](https://miaowi.ng) // alt domain for birb.cc
+
 ## used on img.birb.cc
 
 [counterstrike.trade](http://counterstrike.trade)
